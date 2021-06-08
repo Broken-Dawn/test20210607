@@ -10,6 +10,7 @@ package com.my.test20210607.domain;
  */
 public class Person {
 
+    private Integer id;
     private String name;
 
 }
